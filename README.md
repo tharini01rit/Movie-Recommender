@@ -29,6 +29,8 @@ Editing Metadata:
   Used to change data type of fields, etc.
 Join data:
   Used to join the above two dataset.
+ # Project link
+ https://gallery.cortanaintelligence.com/Experiment/Movie-recommender-prediction
 Select column in dataset:
   Select columns to inclue or exclude from a dataset in an operation formally known as columns.
  Remove duplicate rows:
