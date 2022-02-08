@@ -29,8 +29,6 @@ Editing Metadata:
   Used to change data type of fields, etc.
 Join data:
   Used to join the above two dataset.
- # Project link
- https://gallery.cortanaintelligence.com/Experiment/Movie-recommender-prediction
 Select column in dataset:
   Select columns to inclue or exclude from a dataset in an operation formally known as columns.
  Remove duplicate rows:
@@ -46,4 +44,6 @@ Evaluate recommender:
   this evaluate recommender is used to evaluates a recommender model.
 
 After creating, run the model by clicking run button in the bottom side. After running successfully, we can score and evaluate the model and Deploy the model by Setting up Web Service in ML Studio. For first time select Update Predictive Experiment. after deployment of model, it can be used in webs.
+# project link
+https://gallery.cortanaintelligence.com/Experiment/Movie-recommender-prediction
 
