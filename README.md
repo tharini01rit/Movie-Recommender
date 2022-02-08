@@ -4,20 +4,20 @@ The idea behind Content-based (cognitive filtering) recommendation system is to 
 By updating the entire status of each movie database,we can predict the movie decision accordingly.so that one could predict which movie is mosted rated.if the movie's viewer count is increasing then the movie review will increases which will be more useful for a new user.this model not only helps the fresh user,it also helps in reducing the man labour work.
 # Azure services used
 Azure machine learning studio is used to create, train and evaluate the machine learning model. In Azure machine learning portal, select or import a dataset for the model. After uploading the dataset as CSV file, then select the blocks for the model and then connect and visualize the blocks. The final output will be visualized in the evaluated model
-# Movie recommender macine learning model
-![image](https://user-images.githubusercontent.com/89441844/152484760-6f77886b-18c4-44d4-a1a2-810fa1862df3.png)
+# Movie recommender machine learning model
+![image](https://user-images.githubusercontent.com/89441844/152938114-44e83dc8-5418-4a2e-a28b-c883ada97a0f.png)
 # Movie recommender dataset
-![image](https://user-images.githubusercontent.com/89441844/152484134-6e8e63c6-0841-4c20-b107-d8579297a587.png)
+![image](https://user-images.githubusercontent.com/89441844/152938271-935edd2b-0255-4df2-a000-3a29dfe3ff00.png)
 # Trained model
-![image](https://user-images.githubusercontent.com/89441844/152484293-db05781b-a87c-45f9-b8f6-f82bc925b678.png)
+![image](https://user-images.githubusercontent.com/89441844/152938447-f951048b-7ce6-4328-853b-5d4724524869.png)
 # Scored model
-![image](https://user-images.githubusercontent.com/89441844/152484465-4b902fb1-e195-4ba1-8d34-f6f07fce6485.png)
-![image](https://user-images.githubusercontent.com/89441844/152484557-1015c847-cb4b-4c49-bfd6-bc0b7b2a533c.png)
-![image](https://user-images.githubusercontent.com/89441844/152484641-f901e757-7f23-4e94-9049-8733664a4463.png)
+![image](https://user-images.githubusercontent.com/89441844/152938567-5e544aae-0db5-4f4f-a5bd-73f09416ca6d.png)
+![image](https://user-images.githubusercontent.com/89441844/152938672-ff83791f-67d6-4ebb-9c42-69b3c50f4a00.png)
+![image](https://user-images.githubusercontent.com/89441844/152938810-fdc41552-401e-4c73-b386-1c8bc1f1eb49.png)
 # Evaluated model
-![image](https://user-images.githubusercontent.com/89441844/152484862-65205ebd-267e-45d5-ac2c-618b6c19d518.png)
-![image](https://user-images.githubusercontent.com/89441844/152484904-27ac0ee3-7e89-4531-a59e-647a329dad26.png)
-![image](https://user-images.githubusercontent.com/89441844/152484959-12c73ae7-d71a-47ae-b8c8-1d4ec15a4e57.png)
+![image](https://user-images.githubusercontent.com/89441844/152938950-3f7103e9-d130-45bb-a986-0a1c356f22cc.png)
+![image](https://user-images.githubusercontent.com/89441844/152939013-186cfb8a-2ae4-4769-a4a6-3c77878a9d6f.png)
+![image](https://user-images.githubusercontent.com/89441844/152939091-ab6f8a72-21bc-4a07-b669-7161a42d877f.png)
 # Detailed description
 Create Project/Experiment and import movie rating data set from saved dataset samples. After creating experiment, we need to drag and drop the required modules in canvas:
 
