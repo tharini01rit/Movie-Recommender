@@ -46,4 +46,9 @@ Evaluate recommender:
 After creating, run the model by clicking run button in the bottom side. After running successfully, we can score and evaluate the model and Deploy the model by Setting up Web Service in ML Studio. For first time select Update Predictive Experiment. after deployment of model, it can be used in webs.
 # project link
 https://gallery.cortanaintelligence.com/Experiment/Movie-recommender-prediction
+# Demo video
+https://user-images.githubusercontent.com/89441844/153903322-7f1589bc-2acf-438a-8523-769c551ccf89.mp4
+
+
+
 
